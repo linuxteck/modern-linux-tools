@@ -16,7 +16,7 @@
 
 > A quick look at modern tools in action (from the full guide)
 
-![Preview](https://your-image-link-here)
+![Preview]([https://your-image-link-here](https://www.linuxteck.com/wp-content/uploads/2026/03/Modern-CLI-Tools-300x183.png))
 <!-- Tip: Upload a terminal screenshot to this repo and replace the URL above -->
 
 ---
