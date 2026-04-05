@@ -14,7 +14,7 @@
 
 ## 🖼️ Preview
 
-> A quick look at modern tools in action (from the full guide)
+> Real terminal output — see how these tools actually look and behave
 
 ![Preview](https://github.com/linuxteck/modern-linux-tools/blob/main/esa.png)
 <!-- Tip: Upload a terminal screenshot to this repo and replace the URL above -->
@@ -44,6 +44,12 @@ If you live in the terminal, this guide saves you real time every day.
 | `cd` | `zoxide` | Learns your habits, jumps instantly |
 | `man` | `tldr` | TL;DR examples instead of walls of text |
 | `ping` | `gping` | Real-time latency graph in the terminal |
+
+---
+
+## 👉 Want full setup + comparisons?  
+Read here:  
+https://www.linuxteck.com/modern-linux-tools/?utm_source=github&utm_medium=repo
 
 ---
 
@@ -102,9 +108,9 @@ btop                         # top, if top went to design school
 **[LinuxTeck](https://www.linuxteck.com)** publishes weekly, hands-on Linux guides — no fluff, no filler.  
 If you work with Linux daily, these repos will save you hours.
 
-⭐ If this saved you time, give it a star — it helps more people discover it
+⭐ Found this useful? Star this repo — it helps more developers discover it  
 🔁 Share with your team — especially if they're still using `grep` 😄
-👤 **[Follow LinuxTeck on GitHub](https://github.com/linuxteck)** — new guide drops every week
+👤 **[Follow for weekly Linux guides & News (40+ already available):](https://github.com/linuxteck)** 
 
 ---
 
