@@ -8,7 +8,19 @@
 > Still typing `ls`, `cat`, and `grep` like it's 2005?  
 > These 10 drop-in replacements are faster, prettier, and built for the modern terminal.
 
-📖 **[Full Guide (10 tools + install + real examples → linuxteck.com](https://www.linuxteck.com/modern-linux-tools/)**
+📖 **[Full Guide (10 tools + install + real examples → linuxteck.com](https://www.linuxteck.com/modern-linux-tools/?utm_source=github&utm_medium=repo&utm_campaign=modern-tools)**
+
+---
+
+## ⚡ 1-Minute Upgrade
+
+If you try just these 3 tools, you’ll feel the difference immediately:
+
+- `bat` → better `cat` (syntax highlighting)
+- `eza` → better `ls` (icons + git info)
+- `ripgrep` → faster `grep` (huge speed boost)
+
+💡 These alone can significantly improve your daily terminal workflow.
 
 ---
 
@@ -47,7 +59,7 @@ If you live in the terminal, this guide saves you real time every day.
 
 ---
 
-## 👉 Want full setup + comparisons?  
+## 👉 Want full setup, comparisons, and real use cases?   
 Read here:  
 https://www.linuxteck.com/modern-linux-tools/?utm_source=github&utm_medium=repo
 
@@ -110,7 +122,7 @@ If you work with Linux daily, these repos will save you hours.
 
 ⭐ Found this useful? Star this repo — it helps more developers discover it  
 🔁 Share with your team — especially if they're still using `grep` 😄
-👤 **[Follow for weekly Linux guides & News (40+ already available):](https://github.com/linuxteck)** 
+👤 **[Follow for weekly Linux guides & news (40+ already available):](https://github.com/linuxteck)** 
 
 ---
 
