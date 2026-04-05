@@ -8,7 +8,7 @@
 > Still typing `ls`, `cat`, and `grep` like it's 2005?  
 > These 10 drop-in replacements are faster, prettier, and built for the modern terminal.
 
-📖 **[Read the full guide with screenshots → linuxteck.com](https://www.linuxteck.com/modern-linux-tools/)**
+📖 **[Full Guide (10 tools + install + real examples → linuxteck.com](https://www.linuxteck.com/modern-linux-tools/)**
 
 ---
 
